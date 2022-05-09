@@ -1,5 +1,5 @@
 # deployReactJsApplication
-[![](https://img.shields.io/badge/github-blue?style=for-the-badge)](https://github.com/AkshanshChauhan)
+[![](https://raw.githubusercontent.com/melihaksoy/HoldToLoadLayout/master/gifs/htl_4.gif)](https://github.com/AkshanshChauhan)
 click here to visit [link](https://akshanshchauhan.github.io/deployReactJsApplication/)
 
 <details><summary>AboutMe</summary>
