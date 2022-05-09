@@ -18,6 +18,16 @@ graph TD;
     Akshansh-->Coding;
     Development-->Akshansh;
     Coding-->Akshansh;
-    Development-->FullStack_Android
-    Development-->FullStack_Web
+    Development-->Html
+    Development-->Css
+    Development-->JavaScript
+    Development-->Node.js
+    Development-->Php
+    Development-->React.js
+    Development-->Bootstrap
+    Coding-->C++
+    Coding-->Java
+    Coding-->Octave
+    Coding-->Pyhton
+    Coding-->C
 ```
