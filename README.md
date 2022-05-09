@@ -1,5 +1,5 @@
 # deployReactJsApplication
-<font color="green"> # deployReactJsApplication </font>
+<font color="green">deployReactJsApplication</font>
 click here to visit [link](https://akshanshchauhan.github.io/deployReactJsApplication/)
 
 <details><summary>AboutMe</summary>
