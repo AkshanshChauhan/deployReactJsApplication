@@ -10,7 +10,6 @@ click here to visit [link](https://akshanshchauhan.github.io/deployReactJsApplic
  Age 21<br><br>
  <img src="https://static.toiimg.com/photo/77995321.cms" width="200" height="150"> **I am Form Uttarakhand**
 </p><br>
-<p>[![](https://raw.githubusercontent.com/melihaksoy/HoldToLoadLayout/master/gifs/htl_4.gif)](https://github.com/AkshanshChauhan)</p>
 </details>
 
 ```mermaid
@@ -34,3 +33,4 @@ graph TD;
     Coding-->Pyhton;
     Coding-->C;
 ```
+[![](https://raw.githubusercontent.com/melihaksoy/HoldToLoadLayout/master/gifs/htl_4.gif)](https://github.com/AkshanshChauhan)
