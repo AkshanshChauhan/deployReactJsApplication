@@ -14,8 +14,8 @@ click here to visit [link](https://akshanshchauhan.github.io/deployReactJsApplic
 
 ```mermaid
 graph TD;
-    Akshansh-->WebDev;
-    Akshansh-->AndDev;
-    WebDev-->Final;
-    AndDev-->Final;
+    Akshansh-->Development;
+    Akshansh-->Coding;
+    Development-->Akshansh;
+    Coding-->Akshansh;
 ```
