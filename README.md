@@ -2,4 +2,4 @@
 
 click here to visit [link](https://akshanshchauhan.github.io/deployReactJsApplication/)
 
-<img src="https://static.toiimg.com/photo/77995321.cms" width="48">
+<img src="https://static.toiimg.com/photo/77995321.cms" width="48" style="border: 10px solid black;">
