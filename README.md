@@ -18,16 +18,18 @@ graph TD;
     Akshansh-->Coding;
     Development-->Akshansh;
     Coding-->Akshansh;
-    Development-->Html
-    Development-->Css
-    Development-->JavaScript
-    Development-->Node.js
-    Development-->Php
-    Development-->React.js
-    Development-->Bootstrap
-    Coding-->C++
-    Coding-->Java
-    Coding-->Octave
-    Coding-->Pyhton
-    Coding-->C
+    Development-->FrontEnd;
+    Development-->BackEnd;
+    FrontEnd-->Html;
+    FrontEnd-->Css;
+    FrontEnd-->JavaScript;
+    BackEnd-->Node.js;
+    BackEnd-->Php;
+    FrontEnd-->React.js;
+    FrontEnd-->Bootstrap;
+    Coding-->C++;
+    Coding-->Java;
+    Coding-->Octave;
+    Coding-->Pyhton;
+    Coding-->C;
 ```
