@@ -1,4 +1,5 @@
-# deployReactJsApplication ### Tech
+# deployReactJsApplication 
+~sad~
 
 click here to visit [link](https://akshanshchauhan.github.io/deployReactJsApplication/)
 
