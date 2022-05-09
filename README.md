@@ -18,4 +18,6 @@ graph TD;
     Akshansh-->Coding;
     Development-->Akshansh;
     Coding-->Akshansh;
+    Development-->FullStack Android
+    Development-->FullStack Web
 ```
